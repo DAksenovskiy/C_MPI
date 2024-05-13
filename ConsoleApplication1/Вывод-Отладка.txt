@@ -1,0 +1,39 @@
+﻿"ConsoleApplication1.exe" (Win32). Загружено "C:\Users\den19\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe". Символы загружены.
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\msmpi.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\advapi32.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\msvcrt.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\sechost.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\bcrypt.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\rpcrt4.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\ws2_32.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\mswsock.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\ntdsapi.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\authz.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\ucrtbase.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\cryptbase.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\dsparse.dll". 
+Поток 0x5fd8 завершился с кодом 0 (0x0).
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\bcryptprimitives.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\NapiNSP.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\pnrpnsp.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\dnsapi.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\IPHLPAPI.DLL". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\nsi.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\winrnr.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\wshbth.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\nlansp_c.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\msvcp_win.dll". 
+onecore\net\netprofiles\service\src\nsp\dll\namespaceserviceprovider.cpp(550)\nlansp_c.dll!00007FF876C0D93D: (caller: 00007FF88D3CACF6) LogHr(1) tid(35e4) 8007277C Неизвестная служба. Эта служба отсутствует в указанном пространстве имен.
+onecore\net\netprofiles\service\src\nsp\dll\namespaceserviceprovider.cpp(550)\nlansp_c.dll!00007FF876C0D93D: (caller: 00007FF88D3CACF6) LogHr(2) tid(35e4) 8007277C Неизвестная служба. Эта служба отсутствует в указанном пространстве имен.
+onecore\net\netprofiles\service\src\nsp\dll\namespaceserviceprovider.cpp(550)\nlansp_c.dll!00007FF876C0D93D: (caller: 00007FF88D3CACF6) LogHr(3) tid(35e4) 8007277C Неизвестная служба. Эта служба отсутствует в указанном пространстве имен.
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\FWPUCLNT.DLL". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\rasadhlp.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\System32\kernel.appcore.dll". 
+Поток 0x5e1c завершился с кодом 0 (0x0).
+Поток 0x2f70 завершился с кодом 0 (0x0).
+Программа "[5400] ConsoleApplication1.exe" завершилась с кодом 0 (0x0).

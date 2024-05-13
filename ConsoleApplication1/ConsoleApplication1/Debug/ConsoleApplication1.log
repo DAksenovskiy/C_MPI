@@ -1,0 +1,7 @@
+﻿  FileName.c
+C:\Users\den19\source\repos\ConsoleApplication1\ConsoleApplication1\FileName.c(10,44): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+FileName.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Comm_size@8 в функции _main.
+FileName.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Comm_rank@8 в функции _main.
+FileName.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Init@8 в функции _main.
+FileName.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Finalize@0 в функции _main.
+C:\Users\den19\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe : fatal error LNK1120: неразрешенных внешних элементов: 4

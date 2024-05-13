@@ -1,0 +1,5 @@
+﻿  FileName.c
+C:\Users\den19\source\repos\ConsoleApplication1\ConsoleApplication1\FileName.c(33,16): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\den19\source\repos\ConsoleApplication1\ConsoleApplication1\FileName.c(38,14): warning C4133: функция: несовместимые типы - из "float *" в "const int *"
+C:\Users\den19\source\repos\ConsoleApplication1\ConsoleApplication1\FileName.c(13): warning C4716: vander_polynomial: должна возвращать значение
+  ConsoleApplication1.vcxproj -> C:\Users\den19\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
