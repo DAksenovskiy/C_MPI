@@ -22,19 +22,19 @@ int main(float *argc, char **argv)
     float R1[5000] = {0};
     float R2[5000] = {0};
 
-    //Центр галактики
+    //Г–ГҐГ­ГІГ° ГЈГ Г«Г ГЄГІГЁГЄГЁ
     x[0] = 0;
     y[0] = 0;
     z[0] = 0;
 
-    //Звезды
+    //Г‡ГўГҐГ§Г¤Г»
     for (int i = 1; i < 10000; i++)
     {
         x[i] = rand() % 2000;
         y[i] = rand() % 2000;
         z[i] = rand() % 2000;
     }
-    
+    omp_set_num_threads(4);
     MPI_Init(argc, &argv);
     int size = 0, rank = 0;
     MPI_Comm_size(MPI_COMM_WORLD, &size);
